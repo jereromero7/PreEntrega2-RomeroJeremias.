@@ -1,0 +1,15 @@
+@import url('../../../../App.css');
+@import url('../widget.module.css');
+
+.badge {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background-color: red;
+    padding: 2px;
+    border-radius: 42%;
+    color: white;
+    font-weight: bold;
+    font-size: x-small;
+
+}

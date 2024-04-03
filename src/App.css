@@ -1,0 +1,18 @@
+:root {
+    --color-primario: orange; 
+    --color-secundario: #1c1c1c;
+    --color-fondo: #f8f9fa; 
+    --color-texto: black; 
+    --color-resaltado: #ffc107;     
+    --color-error: #dc3545; 
+    --color-exito: #28a745; 
+    --color-advertencia: #f1d629; 
+    --color-borde: #9da2a7;
+    --color-sombra: rgba(0, 0, 0, 0.2); 
+  }
+  
+  * {
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    box-sizing: border-box;
+    margin: 0px;
+  }

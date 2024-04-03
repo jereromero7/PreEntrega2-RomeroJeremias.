@@ -1,0 +1,12 @@
+@import url(../../App.css);
+
+.container{
+    background-color: var(--color-fondo);
+    color: var(--color-texto);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+}
